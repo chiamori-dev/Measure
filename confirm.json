@@ -1,0 +1,148 @@
+[
+	{
+    "address_components": [
+        {
+            "long_name": "６２７−１",
+            "short_name": "６２７−１",
+            "types": [
+                "premise"
+            ]
+        },
+        {
+            "long_name": "福井町",
+            "short_name": "福井町",
+            "types": [
+                "political",
+                "sublocality",
+                "sublocality_level_2"
+            ]
+        },
+        {
+            "long_name": "高知市",
+            "short_name": "高知市",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "高知県",
+            "short_name": "高知県",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "日本",
+            "short_name": "JP",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "780-0965",
+            "short_name": "780-0965",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "formatted_address": "日本、〒780-0965 高知県高知市福井町６２７−１",
+    "geometry": {
+        "bounds": {
+            "south": 33.5667688,
+            "west": 133.5130809,
+            "north": 33.56688520000001,
+            "east": 133.5132228
+        },
+        "location": {
+            "lat": 33.5668537,
+            "lng": 133.5131557
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+            "south": 33.56547801970851,
+            "west": 133.5118028697085,
+            "north": 33.56817598029151,
+            "east": 133.5145008302915
+        }
+    },
+    "place_id": "ChIJd-nrUNsYTjURlu8v77UGBHI",
+    "types": [
+        "premise"
+    ]
+	},
+	{
+    "address_components": [
+        {
+            "long_name": "北秦泉寺",
+            "short_name": "北秦泉寺",
+            "types": [
+                "political",
+                "sublocality",
+                "sublocality_level_2"
+            ]
+        },
+        {
+            "long_name": "高知市",
+            "short_name": "高知市",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "高知県",
+            "short_name": "高知県",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "日本",
+            "short_name": "JP",
+            "types": [
+                "country",
+                "political"
+            ]
+        },
+        {
+            "long_name": "780-0022",
+            "short_name": "780-0022",
+            "types": [
+                "postal_code"
+            ]
+        }
+    ],
+    "formatted_address": "日本、〒780-0022 高知県高知市北秦泉寺",
+    "geometry": {
+        "bounds": {
+            "south": 33.5808902,
+            "west": 133.5329254,
+            "north": 33.5978062,
+            "east": 133.5449622
+        },
+        "location": {
+            "lat": 33.5891739,
+            "lng": 133.5390627
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+            "south": 33.5808902,
+            "west": 133.5329254,
+            "north": 33.5978062,
+            "east": 133.5449622
+        }
+    },
+    "partial_match": true,
+    "place_id": "ChIJdWD7quseTjURz0wCN6mPKrI",
+    "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_2"
+    ]
+	}
+]

@@ -1,0 +1,9 @@
+body{
+    padding: 0;
+    margin: 0;    
+}
+
+#loader{
+    height: 400px;
+    width:400px;
+}
